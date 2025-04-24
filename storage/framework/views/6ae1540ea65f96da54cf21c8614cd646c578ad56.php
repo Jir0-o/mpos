@@ -1,1 +1,0 @@
-<?php /**PATH D:\ussbd\POSSIE\resources\views/account/profitLoss.blade.php ENDPATH**/ ?>

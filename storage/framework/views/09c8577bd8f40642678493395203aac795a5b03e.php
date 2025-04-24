@@ -1,1 +1,0 @@
-<?php /**PATH /home/onlioxoq/public_html/backofficel/resources/views/dashboard/wallet/index.blade.php ENDPATH**/ ?>
